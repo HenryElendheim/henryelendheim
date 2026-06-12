@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # allows manual runs from the Actions tab
   push:
     paths:
-      - "scripts/update-featured.js"
+      - "scripts/update_featured.py"
       - ".github/workflows/update-featured.yml"
 
 permissions:
@@ -20,12 +20,8 @@ jobs:
         with:
           ref: main # always work from the latest main, even on re-runs of old runs
 
-      - uses: actions/setup-node@v5
-        with:
-          node-version: 24
-
       - name: Rebuild featured projects table
-        run: node scripts/update-featured.js
+        run: python3 scripts/update_featured.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
