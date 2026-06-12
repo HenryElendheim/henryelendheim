@@ -1,8 +1,8 @@
-# Hi, I'm Henry 👋
+# Hi, I'm Henry
 
-🎓 Student developer at [GET Academy](https://getacademy.no) in Norway, learning software development hands-on — from console apps to browser games.
+Student developer at [GET Academy](https://getacademy.no) in Norway, learning software development hands-on — from console apps to browser games.
 
-## 🛠️ What I work with
+What I work with
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -15,7 +15,7 @@
 - **JavaScript** — browser games and interactive websites
 - **Pair programming & teamwork** — several of my projects are built collaboratively at GET Academy
 
-## 🎮 Featured projects
+Featured projects
 
 | Project | What it is |
 |---|---|
@@ -24,12 +24,12 @@
 | [VareHusAdministrasjon](https://github.com/HenryElendheim/VareHusAdministrasjon) | Warehouse administration system in C# |
 | [BibliotekApp](https://github.com/HenryElendheim/BibliotekApp) | Library management app in C# |
 
-## 📊 GitHub stats
+GitHub stats
 
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryElendheim&show_icons=true&theme=default)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryElendheim&layout=compact)
 
-## 📫 Get in touch
+Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-johan-lie-alpøy-474b97268/)
 
