@@ -24,6 +24,22 @@ Featured projects
 | [VareHusAdministrasjon](https://github.com/HenryElendheim/VareHusAdministrasjon) | Warehouse administration system in C# |
 | [BibliotekApp](https://github.com/HenryElendheim/BibliotekApp) | Library management app in C# |
 
+Experience
+
+**IT Support — Larvik Municipality** · Aug 2023 – Dec 2025
+User-facing IT support and problem-solving in a large organization. Learned that the social side of the job matters as much as the technical, and developed the ability to take initiative and work independently.
+
+**IT Developer (work placement) — Thor Heyerdahl VGS** · 2022 – 2023
+Hands-on work with SQL databases and app development in a workplace-like setting — my first taste of real IT tasks under mentorship.
+
+**Work placement — REMA 1000** · 2021 – 2022
+Customer service, stocking and teamwork.
+
+Education
+
+**GET Academy** · 2026 – present — Higher vocational education in programming and IT development
+**Sandefjord VGS (IT)** · Aug 2021 – Jun 2023 — Foundational IT subjects and introduction to the field
+
 GitHub stats
 
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryElendheim&show_icons=true&theme=default)
