@@ -1,6 +1,6 @@
 # Hi, I'm Henry
 
-Student developer at [GET Academy](https://getacademy.no) in Norway, learning software development hands-on — from console apps to browser games.
+IT student at [GET Academy](https://getacademy.no) in Norway, with experience from IT support at Larvik Municipality and IT development. Practical, social and solution-oriented — passionate about creativity, problem-solving, and the value of great teamwork.
 
 What I work with
 
