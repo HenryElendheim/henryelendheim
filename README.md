@@ -1,9 +1,9 @@
 # Hi, I'm Henry
----
+
 IT student at [GET Academy](https://getacademy.no) in Norway, with experience from IT support at Larvik Municipality and IT development. Practical, social and solution-oriented — passionate about creativity, problem-solving, and the value of great teamwork.
 
-What I work with
----
+## What I work with
+
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@ What I work with
 | [VareHusAdministrasjon](https://github.com/HenryElendheim/VareHusAdministrasjon) | Warehouse administration system in C# |
 | [BibliotekApp](https://github.com/HenryElendheim/BibliotekApp) | Library management app in C# |
 
-Experience
+## Experience
 
 **IT Support — Larvik Municipality** · Aug 2023 – Dec 2025
 User-facing IT support and problem-solving in a large organization. Learned that the social side of the job matters as much as the technical, and developed the ability to take initiative and work independently.
@@ -35,17 +35,17 @@ Hands-on work with SQL databases and app development in a workplace-like setting
 **Work placement — REMA 1000** · 2021 – 2022
 Customer service, stocking and teamwork.
 
-Education
+## Education
 
 **GET Academy** · 2026 – present — Higher vocational education in programming and IT development
 **Sandefjord VGS (IT)** · Aug 2021 – Jun 2023 — Foundational IT subjects and introduction to the field
 
-GitHub stats
+## GitHub stats
 
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryElendheim&show_icons=true&theme=default)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryElendheim&layout=compact)
 
-Get in touch
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-johan-lie-alpøy-474b97268/)
 
