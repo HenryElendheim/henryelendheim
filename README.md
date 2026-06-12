@@ -21,6 +21,7 @@ IT student at [GET Academy](https://getacademy.no) in Norway, with experience fr
 | Project | What it is |
 |---|---|
 | [SurvivalGame](https://github.com/HenryElendheim/SurvivalGame) | A survival game built in JavaScript |
+| [ParaDies](https://github.com/HenryElendheim/ParaDies) | A JavaScript game project |
 <!-- FEATURED:END -->
 
 ## Experience
