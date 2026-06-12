@@ -38,6 +38,7 @@ Customer service, stocking and teamwork.
 ## Education
 
 **GET Academy** · 2026 – present — Higher vocational education in programming and IT development
+
 **Sandefjord VGS (IT)** · Aug 2021 – Jun 2023 — Foundational IT subjects and introduction to the field
 
 ## GitHub stats
