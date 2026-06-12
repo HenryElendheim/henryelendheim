@@ -16,7 +16,7 @@ What I work with
 - **Pair programming & teamwork** — several of my projects are built collaboratively at GET Academy
 
 Featured projects
-
+---
 | Project | What it is |
 |---|---|
 | [SurvivalGame](https://github.com/HenryElendheim/SurvivalGame) | A survival game built in JavaScript |
