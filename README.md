@@ -17,12 +17,11 @@ IT student at [GET Academy](https://getacademy.no) in Norway, with experience fr
 
 ## Featured projects
 
+<!-- FEATURED:START -->
 | Project | What it is |
 |---|---|
 | [SurvivalGame](https://github.com/HenryElendheim/SurvivalGame) | A survival game built in JavaScript |
-| [ParaDies](https://github.com/HenryElendheim/ParaDies) | A JavaScript game project |
-| [VareHusAdministrasjon](https://github.com/HenryElendheim/VareHusAdministrasjon) | Warehouse administration system in C# |
-| [BibliotekApp](https://github.com/HenryElendheim/BibliotekApp) | Library management app in C# |
+<!-- FEATURED:END -->
 
 ## Experience
 
