@@ -15,8 +15,8 @@ What I work with
 - **JavaScript** — browser games and interactive websites
 - **Pair programming & teamwork** — several of my projects are built collaboratively at GET Academy
 
-# Featured projects
----
+## Featured projects
+
 | Project | What it is |
 |---|---|
 | [SurvivalGame](https://github.com/HenryElendheim/SurvivalGame) | A survival game built in JavaScript |
