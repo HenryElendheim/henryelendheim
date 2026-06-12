@@ -1,9 +1,9 @@
 # Hi, I'm Henry
-
+---
 IT student at [GET Academy](https://getacademy.no) in Norway, with experience from IT support at Larvik Municipality and IT development. Practical, social and solution-oriented — passionate about creativity, problem-solving, and the value of great teamwork.
 
 What I work with
-
+---
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,7 +15,7 @@ What I work with
 - **JavaScript** — browser games and interactive websites
 - **Pair programming & teamwork** — several of my projects are built collaboratively at GET Academy
 
-Featured projects
+# Featured projects
 ---
 | Project | What it is |
 |---|---|
