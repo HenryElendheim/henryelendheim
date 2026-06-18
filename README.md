@@ -24,6 +24,7 @@ IT student at [GET Academy](https://getacademy.no) in Norway, with experience fr
 <!-- FEATURED:START -->
 | Project | What it is |
 |---|---|
+| [Wend](https://github.com/wendhq) | Calm accessible kanban board |
 | [ParaDies](https://github.com/HenryElendheim/ParaDies) | A JavaScript game project |
 | [SurvivalGame](https://github.com/HenryElendheim/SurvivalGame) | A survival game built in JavaScript |
 | [Velkommen](https://github.com/HenryElendheim/Velkommen) | (WIP) - Using moodle tasks to make an escape room website game |
